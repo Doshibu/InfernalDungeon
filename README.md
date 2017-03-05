@@ -31,6 +31,6 @@ You can see :
 
 ###Bonus  :sunglasses:  :fries: !###
 You can directly act on the simulation running acting on :
-- Vitesse de simulation
-- Mode "pas à pas"
-- Mode "normal"
+- Simulation speed
+- "Step by step" mode
+- "Normal" mode
