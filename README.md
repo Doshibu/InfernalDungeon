@@ -29,8 +29,14 @@ You can see :
 - Monster Health
 - Character Life Points
 
-###Bonus  :sunglasses:  :fries: !###
+### Bonus  :sunglasses:  :fries: ! ###
 You can directly act on the simulation running acting on :
 - Simulation speed
 - "Step by step" mode
 - "Normal" mode
+
+## Credits ##
+It was a school project and I'm greatfull to have had the chance to participate in such a project with them.
+- [Quentin Vignaud](https://fr.linkedin.com/in/quentin-vignaud-137445a8)
+- [Clément Guiheneuf](https://fr.linkedin.com/in/clément-guihéneuf-04004b107)
+- [Guillaume Bonhommeau](linkedin.com/in/guillaume-bonhommeau-320967118)
